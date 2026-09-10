@@ -80,6 +80,8 @@ cada entrega.
 | 1 | `<Apellidos, Nombres>` | `<Responsabilidades>` | `<A tiempo / A destiempo / Parcialmente / No cumplió>` | `<20/16/13/07/00>` |
 | 2 | `<Apellidos, Nombres>` | `<Responsabilidades>` | `<...>` | `<...>` |
 | 3 | `<Apellidos, Nombres>` | `<Responsabilidades>` | `<...>` | `<...>` |
+| 4 | `<Apellidos, Nombres>` | `<Responsabilidades>` | `<...>` | `<...>` |
+| 5 | `<Apellidos, Nombres>` | `<Responsabilidades>` | `<...>` | `<...>` |
 
 **Anexo C. Videos**
 

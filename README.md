@@ -26,6 +26,8 @@
 | `<Apellidos, Nombres>` | `<Código>` | **Team Leader** |
 | `<Apellidos, Nombres>` | `<Código>` | Integrante |
 | `<Apellidos, Nombres>` | `<Código>` | Integrante |
+| `<Apellidos, Nombres>` | `<Código>` | Integrante |
+| `<Apellidos, Nombres>` | `<Código>` | Integrante |
 
 **Septiembre 2026**
 

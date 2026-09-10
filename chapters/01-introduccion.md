@@ -44,6 +44,8 @@ capaz de acompañar tanto a un local independiente como a una cadena con decenas
 | `<Apellidos, Nombres>` **(Team Leader)** | `<Código>` | Ingeniería de Software | `<Foto. Párrafo de resumen con los principales conocimientos técnicos y habilidades que aporta al equipo.>` |
 | `<Apellidos, Nombres>` | `<Código>` | Ingeniería de Software | `<Foto. Párrafo de resumen con los principales conocimientos técnicos y habilidades que aporta al equipo.>` |
 | `<Apellidos, Nombres>` | `<Código>` | Ingeniería de Software | `<Foto. Párrafo de resumen con los principales conocimientos técnicos y habilidades que aporta al equipo.>` |
+| `<Apellidos, Nombres>` | `<Código>` | Ingeniería de Software | `<Foto. Párrafo de resumen con los principales conocimientos técnicos y habilidades que aporta al equipo.>` |
+| `<Apellidos, Nombres>` | `<Código>` | Ingeniería de Software | `<Foto. Párrafo de resumen con los principales conocimientos técnicos y habilidades que aporta al equipo.>` |
 
 ## 1.2. Solution Profile
 

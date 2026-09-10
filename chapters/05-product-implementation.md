@@ -328,6 +328,8 @@ Content-Type: application/json
 | `<Integrante>` | `<n>` | `<n>` | `<n>` | `<Artefactos>` |
 | `<Integrante>` | `<n>` | `<n>` | `<n>` | `<Artefactos>` |
 | `<Integrante>` | `<n>` | `<n>` | `<n>` | `<Artefactos>` |
+| `<Integrante>` | `<n>` | `<n>` | `<n>` | `<Artefactos>` |
+| `<Integrante>` | `<n>` | `<n>` | `<n>` | `<Artefactos>` |
 
 ## 5.3. Video About-the-Product
 
