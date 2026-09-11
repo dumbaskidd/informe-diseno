@@ -210,6 +210,24 @@ inicia explicando el propósito de la investigación y solicitando consentimient
 
 Fabrizzio es coordinador de operaciones de una cadena de 3 minimarkets. Gestiona la operación de forma reactiva, enterándose del costo eléctrico solo al llegar el recibo mensual, lo que representa su segundo mayor gasto después del alquiler. Su mayor frustración es el cargo por potencia, ya que al carecer de medidores por zonas (como frigoríficos) no puede detectar ineficiencias ni sustentar excesos tarifarios ante la gerencia. Indica gran disposición a usar una solución que envíe alertas de demanda con margen a su celular, siempre que esto logre evitar penalidades tarifarias (retorno de inversión) y permita dar accesos acotados a los jefes de cada tienda. A nivel tecnológico, usa ERP corporativo en su laptop, pero depende intensamente de WhatsApp y notificaciones *push* en su smartphone para emergencias.
 
+#### Segmento #2 — Entrevista 1
+
+| Campo | Dato |
+| :-- | :-- |
+| Nombres y apellidos | `<...>` |
+| Edad | `<...>` |
+| Distrito | `<...>` |
+| Cargo / tipo de establecimiento | Propietario y administrador (Cafetería de especialidad) |
+| Número de locales a cargo | 1 local |
+| URL del video | `<...>` |
+| Timing de inicio | `<mm:ss>` |
+| Duración | `<mm:ss>` |
+| Screenshot | ![Captura Entrevista Segmento 2](../images/chapter2/entrevistaSegment2-Disenio.png) |
+
+**Resumen de la entrevista**
+
+El entrevistado es propietario y administrador de una cafetería de especialidad de 80 m² y gestiona todas las operaciones diarias de manera empírica. El costo de energía representa una parte significativa de sus gastos fijos (20%). Sin embargo, no revisa el detalle de su recibo, ignorando conceptos técnicos como el cargo por potencia y la tarifa comercial. Suele encender los equipos de manera rutinaria, generando picos de consumo por las tardes (hora punta) al activar luces y aire acondicionado simultáneamente por la afluencia de clientes. Ante un recibo inexplicable en campaña pasada, su única acción fue apagar equipos al azar sin conocer realmente cuáles consumían más. Estaría dispuesto a pagar una herramienta mensual si se le demuestra un ahorro tangible en el recibo, y ve con gran interés recibir avisos de exceso de consumo en tiempo real mediante notificaciones *push* en su smartphone, el cual es su principal herramienta de gestión, junto con apps bancarias.
+
 ### 2.2.3. Análisis de entrevistas
 
 > **Pendiente de ejecución por el equipo.** Se completa una vez registradas las entrevistas.
