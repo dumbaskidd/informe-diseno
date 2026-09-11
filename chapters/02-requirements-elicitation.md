@@ -325,13 +325,19 @@ Elaborados en **LucidChart o Miro**, uno por User Persona, con las filas *Phases
 *Thinking* y *Feeling*, describiendo cómo el usuario afronta hoy la gestión del costo energético
 de su establecimiento **sin** la solución.
 
-![As-Is Scenario Map - Segmento 1](../../images/chapter2/as-is-scenario-persona1.png)
+**Figura 1**
+*As-Is Scenario Map para el Responsable de Operaciones de Cadena*
 
-*Figura: As-Is Scenario Map para el Responsable de operaciones de cadena. Se observa el flujo actual de cómo lidia con el costo energético, destacando la falta de información antes de la llegada del recibo.*
+![As-Is Scenario Map - Responsable de Operaciones de Cadena](../images/chapter2/segmento1.png)
 
-![As-Is Scenario Map - Segmento 2](../../images/chapter2/as-is-scenario-persona2.png)
+*Nota.* El mapa ilustra la falta de información antes de la llegada del recibo y la frustración que esto genera en el usuario durante el cierre del mes (pain points), así como la confianza que siente al delegar las tareas operativas (happy moments). También se identifican áreas por descubrir (blank areas), como la distribución exacta del consumo de las distintas áreas sin medidores. Elaboración propia en Lucidchart.
 
-*Figura: As-Is Scenario Map para el Propietario de establecimiento independiente. Muestra la angustia al momento de la llegada del recibo mensual y las acciones reactivas que toma.*
+**Figura 2**
+*As-Is Scenario Map para el Propietario de Establecimiento Independiente*
+
+![As-Is Scenario Map - Propietario de Establecimiento Independiente](../images/chapter2/segmento2.png)
+
+*Nota.* El mapa muestra la angustia del propietario al momento de la llegada del recibo mensual (pain points) y las acciones reactivas que toma sin conocimiento técnico. También destaca los momentos positivos derivados de la afluencia de clientes en las horas punta (happy moments) y áreas sobre las que no se tiene información (blank areas), como identificar qué equipos exactos son los que más consumen. Elaboración propia en Lucidchart.
 
 ## 2.4. Ubiquitous Language
 
