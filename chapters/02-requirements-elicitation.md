@@ -196,22 +196,19 @@ inicia explicando el propósito de la investigación y solicitando consentimient
 
 | Campo | Dato |
 | :-- | :-- |
-| Nombres y apellidos | `<...>` |
-| Edad | `<...>` |
-| Distrito | `<...>` |
-| Cargo / tipo de establecimiento | `<...>` |
-| Número de locales a cargo | `<...>` |
-| URL del video | `<...>` |
-| Timing de inicio | `<mm:ss>` |
-| Duración | `<mm:ss>` |
-| Screenshot | `<Insertar captura del cuadro de video>` |
+| Nombres y apellidos | Fabrizzio Estefano Varela Tapia |
+| Edad | 24 años |
+| Distrito | Lima (Santa Paula 375, Lima) |
+| Cargo / tipo de establecimiento | Coordinador de operaciones de cadena (Minimarkets) |
+| Número de locales a cargo | 3 locales |
+| URL del video | [Ver video en SharePoint](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310342_upc_edu_pe/IQB5nwCliWL5S6uU__Jhf6JZAWlwk4Z6HWyNSsf2NyK_DOo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=OrbLbV) |
+| Timing de inicio | 00:00 |
+| Duración | 08:11 |
+| Screenshot | ![Captura Entrevista Fabrizzio](../images/chapter2/entrevistaSegment1-Disenio.png) |
 
 **Resumen de la entrevista**
 
-`<Resumen descriptivo de las respuestas del entrevistado a las preguntas realizadas, incluyendo
-características objetivas y subjetivas.>`
-
-> Repetir esta ficha para cada entrevista: **3 a 5 por segmento**.
+Fabrizzio es coordinador de operaciones de una cadena de 3 minimarkets. Gestiona la operación de forma reactiva, enterándose del costo eléctrico solo al llegar el recibo mensual, lo que representa su segundo mayor gasto después del alquiler. Su mayor frustración es el cargo por potencia, ya que al carecer de medidores por zonas (como frigoríficos) no puede detectar ineficiencias ni sustentar excesos tarifarios ante la gerencia. Indica gran disposición a usar una solución que envíe alertas de demanda con margen a su celular, siempre que esto logre evitar penalidades tarifarias (retorno de inversión) y permita dar accesos acotados a los jefes de cada tienda. A nivel tecnológico, usa ERP corporativo en su laptop, pero depende intensamente de WhatsApp y notificaciones *push* en su smartphone para emergencias.
 
 ### 2.2.3. Análisis de entrevistas
 
