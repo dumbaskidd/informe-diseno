@@ -267,15 +267,16 @@ Matriz de tareas por User Persona, indicando frecuencia e importancia de cada ta
 
 | Tarea | Persona #1 — Frecuencia | Persona #1 — Importancia | Persona #2 — Frecuencia | Persona #2 — Importancia |
 | :-- | :-- | :-- | :-- | :-- |
-| Revisar el consumo del día | `<Alta/Media/Baja>` | `<Alta/Media/Baja>` | `<...>` | `<...>` |
-| Revisar el recibo mensual | | | | |
-| Identificar la causa de una variación en el recibo | | | | |
-| Atender un aviso de consumo anómalo | | | | |
-| Comparar el desempeño entre locales | | | | |
-| Configurar umbrales y avisos | | | | |
-| Dar acceso a personal del local | | | | |
-| Registrar un equipo o medidor nuevo | | | | |
-| Descargar un reporte para la gerencia | | | | |
+| Revisar el consumo y gasto diario | Media | Alta | Alta | Alta |
+| Identificar la causa de una variación en el recibo | Media | Alta | Baja | Alta |
+| Atender una alerta de demanda o consumo | Alta | Alta | Alta | Alta |
+| Comparar el desempeño energético entre locales | Alta | Alta | Baja | Baja |
+| Configurar umbrales y avisos de potencia | Baja | Alta | Baja | Alta |
+| Gestionar accesos al personal del local | Media | Alta | Baja | Media |
+| Descargar reportes consolidados para gerencia | Media | Alta | Baja | Baja |
+
+**Análisis de la Matriz de Tareas (User Task Matrix)**
+Ambos perfiles coinciden en la alta importancia de tareas enfocadas en el ahorro y resolución de alertas (revisar consumo diario y atender alertas de demanda), siendo estos los flujos críticos del negocio. Sin embargo, existen diferencias clave en la frecuencia de ciertas actividades operativas debido a su naturaleza y escala de operación. El **Persona #1 (Responsable de Operaciones de Cadena)** realiza con alta frecuencia tareas de análisis comparativo entre sedes y descarga de reportes para gerencia, ya que su rol exige la justificación de gastos corporativos. Por otro lado, el **Persona #2 (Propietario Independiente)** le da poca importancia y frecuencia a comparar locales y descargar reportes corporativos, pero revisa con altísima frecuencia su consumo diario, dado que está altamente preocupado por el día a día y el impacto en su bolsillo.
 
 ### 2.3.3. User Journey Mapping
 
@@ -324,9 +325,13 @@ Elaborados en **LucidChart o Miro**, uno por User Persona, con las filas *Phases
 *Thinking* y *Feeling*, describiendo cómo el usuario afronta hoy la gestión del costo energético
 de su establecimiento **sin** la solución.
 
-`<Insertar imagen del As-is Scenario Map del User Persona #1 y su explicación>`
+![As-Is Scenario Map - Segmento 1](../../images/chapter2/as-is-scenario-persona1.png)
 
-`<Insertar imagen del As-is Scenario Map del User Persona #2 y su explicación>`
+*Figura: As-Is Scenario Map para el Responsable de operaciones de cadena. Se observa el flujo actual de cómo lidia con el costo energético, destacando la falta de información antes de la llegada del recibo.*
+
+![As-Is Scenario Map - Segmento 2](../../images/chapter2/as-is-scenario-persona2.png)
+
+*Figura: As-Is Scenario Map para el Propietario de establecimiento independiente. Muestra la angustia al momento de la llegada del recibo mensual y las acciones reactivas que toma.*
 
 ## 2.4. Ubiquitous Language
 
