@@ -214,9 +214,9 @@ Fabrizzio es coordinador de operaciones de una cadena de 3 minimarkets. Gestiona
 
 | Campo | Dato |
 | :-- | :-- |
-| Nombres y apellidos | `<...>` |
-| Edad | `<...>` |
-| Distrito | `<...>` |
+| Nombres y apellidos | Jasmin Adriana Urrutia Peña |
+| Edad | 25 años |
+| Distrito | Santiago de Surco (Monterrico, Lima) |
 | Cargo / tipo de establecimiento | Propietario y administrador (Cafetería de especialidad) |
 | Número de locales a cargo | 1 local |
 | URL del video | [Ver video en SharePoint](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310342_upc_edu_pe/IQAfFVq1XrLSRatizFEVTM9nAYfxtQ5KC_BEae9a9BF9UVo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uPpjgo) |
