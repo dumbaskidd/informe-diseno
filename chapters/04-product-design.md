@@ -294,7 +294,7 @@ En esta sección se presentan los wireframes de fidelidad media para la aplicaci
 
 Task Flow:
 <p align="center"> 
-<...espacio para el task flow...>
+<img src="../images/chapter4/wireflows/segmento%201/User%20goal-%20Administrar%20y%20vincular%20nuevos%20medidores%20inteligentes/taskflow.png" width="700">
 <br> Nota: Diagrama de Task Flow para vincular nuevos medidores </p>
 
 Wireflow:
@@ -309,7 +309,7 @@ El usuario ingresa a la sección de "Mis Dispositivos" desde el menú lateral, s
 
 Task Flow:
 <p align="center"> 
-<...espacio para el task flow...>
+<img src="../images/chapter4/wireflows/segmento%201/User%20goal-%20Atender%20y%20resolver%20alertas%20de%20exceso%20de%20consumo/taskflow.png" width="700">
 <br> Nota: Diagrama de Task Flow para atención de alertas de consumo </p>
 
 Wireflow:
@@ -324,7 +324,7 @@ Desde el dashboard, el usuario visualiza notificaciones pendientes y navega a la
 
 Task Flow:
 <p align="center"> 
-<...espacio para el task flow...>
+<img src="../images/chapter4/wireflows/segmento%201/User%20goal-%20Configurar%20metas%20corporativas%20y%20tarifas%20el%C3%A9ctricas/taskflow.png" width="700">
 <br> Nota: Diagrama de Task Flow para configuración de tarifas y metas </p>
 
 Wireflow:
@@ -339,7 +339,7 @@ El usuario ingresa a "Mi Organización", donde visualiza los parámetros actuale
 
 Task Flow:
 <p align="center"> 
-<...espacio para el task flow...>
+<img src="../images/chapter4/wireflows/segmento%201/User%20goal-%20Generar%20y%20exportar%20un%20reporte%20energ%C3%A9tico%20para%20gerencia/taskflow.png" width="700">
 <br> Nota: Diagrama de Task Flow para generación de reportes </p>
 
 Wireflow:
@@ -357,7 +357,7 @@ El usuario se dirige a la sección de "Reportes PDF". Selecciona el rango de tie
 
 Task Flow:
 <p align="center"> 
-<...espacio para el task flow...>
+<img src="../images/chapter4/wireflows/segmento%202/User%20goal-%20Autenticaci%C3%B3n%20y%20recuperaci%C3%B3n%20segura%20en%20la%20plataforma/taskflow.png" width="700">
 <br> Nota: Diagrama de Task Flow de inicio de sesión y recuperación </p>
 
 Wireflow:
@@ -372,7 +372,7 @@ El propietario abre la app e intenta iniciar sesión, pero al fallar las credenc
 
 Task Flow:
 <p align="center"> 
-<...espacio para el task flow...>
+<img src="../images/chapter4/wireflows/segmento%202/User%20goal-%20Revisar%20el%20resumen%20r%C3%A1pido%20de%20consumo%20diario/taskflow.png" width="700">
 <br> Nota: Diagrama de Task Flow de revisión de consumo diario </p>
 
 Wireflow:
@@ -387,7 +387,7 @@ Al iniciar sesión, el usuario aterriza directamente en el Dashboard Principal. 
 
 Task Flow:
 <p align="center"> 
-<...espacio para el task flow...>
+<img src="../images/chapter4/wireflows/segmento%202/User%20goal-%20Aplicar%20recomendaciones%20de%20IA%20para%20reducir%20la%20factura/taskflow.png" width="700">
 <br> Nota: Diagrama de Task Flow para aplicación de recomendaciones de ahorro </p>
 
 Wireflow:
