@@ -294,7 +294,7 @@ En esta sección se presentan los wireframes de fidelidad media para la aplicaci
 
 Task Flow:
 <p align="center"> 
-<img src="../images/chapter4/wireflows/segmento%201/User%20goal-%20Administrar%20y%20vincular%20nuevos%20medidores%20inteligentes/taskflow.png" width="700">
+<img src="../images/chapter4/wireflows/segmento%201/User%20goal-%20Administrar%20y%20vincular%20nuevos%20medidores%20inteligentes/taskflow.png" width="300">
 <br> Nota: Diagrama de Task Flow para vincular nuevos medidores </p>
 
 Wireflow:
